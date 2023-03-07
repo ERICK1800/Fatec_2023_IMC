@@ -1,0 +1,10 @@
+body{
+    font-family: Helvetica;
+    //background-color: #5F9EA0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
