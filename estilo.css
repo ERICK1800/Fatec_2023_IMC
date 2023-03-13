@@ -1,6 +1,5 @@
 body{
     font-family: Helvetica;
-    //background-color: #5F9EA0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,10 +20,11 @@ article{
     border-radius: 20px;
     padding: 20px;
 }
-input,textarea{
+select,input,textarea{
     font-size: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
+    width: 65%;
     color: #FFFFFF;
     background-color: #696969;
 }
